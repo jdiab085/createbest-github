@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Elie
-=======
-Joseph DIab
->>>>>>> 9ada6b0325dea703a1ffa7607dd61defba37fe8c
