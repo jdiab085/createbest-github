@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 Alaa
 
 
+=======
+<<<<<<< HEAD
+Elie
+=======
+<<<<<<< HEAD
+Joseph Diab
+=======
+Fawzi
+>>>>>>> fd3804c477884a1466d56840979f12f8bf5f671a
+>>>>>>> 604d5a4e9ba6ac82553c134c567fc12149f11a52
+>>>>>>> 13df195b76302a4dcdd0357eb18160bcb4a6b1d1
