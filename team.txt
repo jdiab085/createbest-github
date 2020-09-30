@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Alaa
+=======
+<<<<<<< HEAD
+Elie
+=======
+Joseph DIab
+>>>>>>> 9ada6b0325dea703a1ffa7607dd61defba37fe8c
+>>>>>>> 0f2383147c25d673934400dd1849af543b018dd2
